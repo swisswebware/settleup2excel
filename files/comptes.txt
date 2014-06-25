@@ -1,0 +1,95 @@
+Dettes:
+
+Bene → PJ: € 276.45
+PJ → Bene: CHF 154.75
+
+Résumé:
+
+Bene: €-276.45
+A payé: € 82.00, Dépensé: € 358.50
+------------------
+Bene: +CHF 154.75
+A payé: CHF 345.00, Dépensé: CHF 190.25
+------------------
+PJ: +€ 276.45
+A payé: € 634.95, Dépensé: € 358.50
+------------------
+PJ: CHF-154.75
+A payé: CHF 35.50, Dépensé: CHF 190.25
+------------------
+Total payé: :  € 716.95 CHF 380.50
+
+Paiements:
+
+PJ a payé € 33.20
+Alimentation - BioFrais 30.05.14 19:39
+pour: Tous
+
+PJ a payé € 100.70
+Alimentation - Carrefour St Julien 30.05.14 16:50
+pour: Tous
+
+Bene a payé CHF 49.75
+Alimentation - Coop 28.05.14 18:47
+pour: Tous
+
+Bene a payé € 42.25
+Alimentation - Biocoop 24.05.14 17:30
+pour: Tous
+
+Bene a payé CHF 81.90
+Essence 24.05.14 10:22
+pour: Tous
+
+Bene a payé CHF 61.50
+Restaurant - Yukiguni 23.05.14 19:34
+pour: Tous
+
+PJ a payé CHF 35.50
+Ménage - Migros Garden 22.05.14 14:00
+pour: Tous
+
+Bene a payé CHF 34.25
+Alimentation - Migros 20.05.14 15:48
+pour: Tous
+
+Bene a payé € 39.75
+Alimentation - Carrefour Divonne 17.05.14 19:48
+pour: Tous
+
+Bene a payé CHF 39.70
+Restaurant - Mikado 14.05.14 13:15
+pour: Tous
+
+PJ a payé € 29.80
+Alimentation - Satoriz 09.05.14 18:32
+pour: Tous
+
+PJ a payé € 132.95
+Alimentation - Intermarche 09.05.14 18:07
+pour: Tous
+
+PJ a payé € 70.55
+Ménage - supports pots, Botanic 09.05.14 16:55
+pour: Tous
+
+Bene a payé CHF 18.85
+Alimentation - Coop 07.05.14 18:49
+pour: Tous
+
+PJ a payé € 10.60
+Alimentation - Fromagerie 04.05.14 10:40
+pour: Tous
+
+Bene a payé CHF 59.05
+Essence 04.05.14 08:40
+pour: Tous
+
+PJ a payé € 56.35
+Alimentation - Intermarche 03.05.14 17:50
+pour: Tous
+
+PJ a payé € 200.75
+Alimentation - Géant Casino Annemasse 21.04.14 19:17
+pour: Tous
+
